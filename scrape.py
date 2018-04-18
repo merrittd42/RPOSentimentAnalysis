@@ -1,6 +1,8 @@
 import twitter
 from time import gmtime, strftime
 
+#Written by Dillon Merritt on April 10
+
 api = twitter.Api(
  consumer_key='E50y90pR3tyRcJM2VrC2fA0CR',
  consumer_secret='EVGldnE7MlLlQi13OsYnL7gyIUxUj5vprnzaKyM4YKm5huEaOY',
